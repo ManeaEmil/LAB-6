@@ -1,0 +1,45 @@
+body {
+    color: red;
+   background-color: black;
+   font-family: Verdana;
+   font-size: 19px;
+}
+h1 {
+   color: yellow;
+   background-color: gray;
+}
+h3 {
+   color: cyan;
+   background-color: teal;
+}
+
+h4 {
+   color: #c0ffee;
+   background-color: #734734;
+}
+
+table {
+   color: #854457;
+   border-style: dotted;
+   border-color: magenta;
+}
+ul {
+   border-style: solid;
+}
+img {
+   border-radius: 60px;
+   width: 250px;
+   opacity: 0.4;
+   position: relative;
+}
+
+#index-img {
+    border-radius: 20px;
+    width: 750px;
+    opacity: 0.8;
+    position: relative;
+}
+
+#index {
+    background-color: cornsilk
+}
